@@ -24,5 +24,3 @@ Instalar proyecto con npm
 
 **Librerias** https://pptr.dev/
 
-## Autor
-Alexander Garcia
